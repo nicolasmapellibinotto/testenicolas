@@ -1,0 +1,65 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Playfair Display", serif;
+}
+#topoContainer{
+    width: 980px;
+    height: 200px;
+    margin: auto;
+
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+#logo img{
+    float: left;
+    padding: 10px 15px 10px 20px;
+}
+#menu{
+    width: 780px;
+    height: 200px;
+    float: right;
+    text-align: center;
+    word-spacing: 10px;
+}
+#menu a{
+
+    text-decoration: none;
+}
+.espacoTopo{
+    padding-top: 20px;
+}
+#banner{
+    width: 100%;
+    height: 400px;
+   /* background-color: brown; */
+    margin: auto;
+    margin-top: 50px;
+}
+#conteudoSite{
+    width: 980px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+#esquerda{
+    width: 450px;
+    height: 500px;
+    float: left;
+}
+#direita{
+    width: 450px;
+    height: 500px;
+    float: right;
+}
+#rodape{
+    width: 980px;
+    height: 50px;
+    margin: auto;
+    margin-top: 50px;
+    clear: both;
+}
+ 
